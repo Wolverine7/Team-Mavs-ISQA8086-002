@@ -1,5 +1,5 @@
 ## Project tittle
-*ISQA8086-002* Data Analysis on Scallops growth rate and the influence of external influence
+*ISQA8086-002* Data Analysis on Scallops growth rate and the influence of external factors
 
 ## Table of contents
 *
