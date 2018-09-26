@@ -90,5 +90,5 @@ Proof-reader: Srishty
 ## Background Research 
 
 - Bobo Isamov- The client's organization and its mission and goals 
-- SrishtyNayak - The study organism or phenomenon 
-- Tarun Chaturvedi-The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)
+- Tarun Chaturvedi - The study organism or phenomenon 
+- Srishty Nayak-The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)
