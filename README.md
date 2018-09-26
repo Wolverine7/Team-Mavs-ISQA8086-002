@@ -13,6 +13,14 @@
 * Temperature2_2016_TaggedCage
 * Temperature2_2017_Tagged Cage
 
+### Description: _This repository will contain the  Individual Assignments ._
+#### List of Assignmnets:
+
+* Background Research
+ * The client's organization and its mission and goals-  Bobo
+ * The study organism or phenomenon - Tarun Chaturvedi
+ * The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)- Srishty Nayak
+
 ## License
 Current repository is reserved under
 [MIT License](https://github.com/angular/angular.js/blob/master/LICENSE) .
