@@ -13,7 +13,7 @@
 * Temperature2_2016_TaggedCage
 * Temperature2_2017_Tagged Cage
 
-### Description: _This repository will contain the  Individual Assignments ._
+### Description: _This repository will contain the  Group Assignments ._
 #### List of Assignmnets:
 
  ##### Background Research
