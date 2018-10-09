@@ -25,16 +25,18 @@
 
 ### 2. Organizational
 
+#### Hurricane Island Foundation
+
 * Sector (nonprofit, governmental, etc.): The Hurricane Island Foundation was incorporated as a non-profit organization in 2009.
 
 * Mission: Their mission is to integrate science education, applied research, and leadership development through year-round educational programs and a seasonal, environmentally-sustainable island community.
 
-* Stakeholders (who/what they serve/support): Business Partners, Students
+* Stakeholders (who/what they serve/support): Researchers, Students, Volunteers, Students
 
 * Strengths & weaknesses: They are environmental friendly because of its remote location, Hurricane Island is completely off the grid. They make every effort to be carbon neutral and environmentally sensitive in the operations and activities of the island community. Solar arrays generate power used throughout the island. All toilets are waterless composting types, including high-tech Clivus systems. Waste greywater is treated entirely in our constructed wetlands. They grow some food on island and have plans for a greenhouse, expanded vegetable gardens, and a chicken coop. All elements of community life on the island are used for education and demonstration for program participants and Island visitors and are the focus of specific sustainable living courses.
      <br> Weakness - Resource Management is a challenge for them. They need more business partners to help them reach their goals.
 
-* Culture: 
+* Culture: They follow Clan Culture. This working environment is a friendly one. People have a lot in common, and it’s similar to a large family. The leaders or the executives are seen as mentors who are trying to share their research and educate more and more people about it. The organization is held together by loyalty and tradition.
 
 ### 3. Both individual & organizational
 
