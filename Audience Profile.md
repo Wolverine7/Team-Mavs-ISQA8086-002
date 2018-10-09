@@ -1,4 +1,4 @@
-### Audience Profile for Hurricane Island Center for Science and Leadership 
+### Audience Profile - Hurricane Island Center for Science and Leadership 
 
 ### Team Name: Mavs
 
