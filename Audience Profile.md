@@ -6,15 +6,15 @@
 
 ![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/D2D_Client.jpeg)
      
-#### Location:
+#### . Location:
 
-#### Role & responsibilities:
+#### . Role & responsibilities:
 
-#### Job experience:
+#### . Job experience:
 
-#### Education level & background:
+#### . Education level & background:
 
-#### Interests & focus:
+#### . Interests & focus:
 
 ### 2. Organizational
 
