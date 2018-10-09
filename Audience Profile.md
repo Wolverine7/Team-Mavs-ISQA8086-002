@@ -2,7 +2,7 @@
 
 ### Team Name: Mavs
 
-### Profile name: Phoebe Jekielek
+### 1. Profile name: Phoebe Jekielek
 
 ![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/D2D_Client.jpeg)
      
@@ -16,7 +16,7 @@
 
 #### Interests & focus:
 
-### Organizational
+### 2. Organizational
 
 #### Sector (nonprofit, governmental, etc.):
 
@@ -28,7 +28,7 @@
 
 #### Culture:
 
-### Both individual & organizational
+### 3. Both individual & organizational
 
 #### Data capabilities (maturity/literacy):
 
