@@ -6,34 +6,34 @@
 
 ![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/D2D_Client.jpeg)
      
-#### a. Location:
+#####    a. Location:
 
-#### b. Role & responsibilities:
+#####    b. Role & responsibilities:
 
-#### c. Job experience:
+#####    c. Job experience:
 
-#### d. Education level & background:
+#####    d. Education level & background:
 
-#### e. Interests & focus:
+#####    e. Interests & focus:
 
 ### 2. Organizational
 
-#### a.Sector (nonprofit, governmental, etc.):
+#####    a. Sector (nonprofit, governmental, etc.):
 
-#### b.Mission:
+#####    b. Mission:
 
-#### c. Stakeholders (who/what they serve/support):
+#####    c. Stakeholders (who/what they serve/support):
 
-#### d. Strengths & weaknesses:
+#####    d. Strengths & weaknesses:
 
-#### Culture:
+#####    e. Culture:
 
 ### 3. Both individual & organizational
 
-#### a. Data capabilities (maturity/literacy):
+#####    a. Data capabilities (maturity/literacy):
 
-#### b.Requirements/needs:
+#####    b. Requirements/needs:
 
-#### c.Priorities:
+#####    c. Priorities:
 
-#### d.Opportunities
+#####    d. Opportunities
