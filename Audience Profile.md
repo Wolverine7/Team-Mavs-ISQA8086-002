@@ -40,16 +40,16 @@
 
 ### 3. Both individual & organizational
 
-*Data capabilities (maturity/literacy):
+* Data capabilities (maturity/literacy):
 The data was collected from the small closed area in the muscle ridge to observe and understand what can small closure accomplish for the Scallop's growth rate. The data that was presented to us consist of different spats data and each was tagged with defferent colors to distinguish them. In addition, each entry consist of temperature data. Temperature data provides another useful information to use during the research. 
 
-*Requirements/needs:
+* Requirements/needs:
 
 
-*Priorities:
+* Priorities:
 
 The main goal of this research is to find out how the small closure can effect the growth and population of the Scallop's in the given area. As the participants of aqua cultural research their objective is to understand the impact of different gear types on the growth rate of scallops. 
 
-*Opportunities
+* Opportunities
 Using these data and analysis, Local Fishermen can build a predictive model that will help to understand the demography and prepare for the changes. 
 
