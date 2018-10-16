@@ -1,7 +1,8 @@
 ## **Team Name: _Mavs_**
 - **Team Project: Hurricane Island for Scallop Growth**
 - **Team Members:**
-- **Srishty**
+
+  - **Srishty**
   - **Tarun**
   - **Bobo**
   
