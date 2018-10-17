@@ -6,7 +6,7 @@
   - **Tarun**
   - **Bobo**
   
- ## Data description
+ ## Task 1 - Data description
 The Data Displyed here is about the Scallop Growth in Hurricane Island. 
 There are three important dataset we got from the client with the help of which we are doing the analysis of scallop growth. The dataset we have are Spat bag, Scallop growth and Temperature data.
 The details of these basic dataset are as follows:
@@ -25,7 +25,7 @@ The data contain --- Columns and ---- rows
 
   
   
-### Policy
+### Task 2 - Policy
 The information is provided here and the site makes no warranties on the information provided. Any damages resulting from its use are disclaimed. We encourage the use of our open data commons licenses but we cannot give any warranty that they will work in the way expected or should be used for any specific purpose. For more information on license, please visit the link below.  
 License:
 This is simply a handy reference for understanding the ODbL 1.0 — it is a human-readable expression of some of its key terms. This document has no legal value, and its contents do not appear in the actual license.
@@ -36,7 +36,7 @@ To Create: To produce works from the database.
 To Adapt: To modify, transform and build upon the database.  
 [See here for more information](http://opendefinition.org/licenses/odc-odbl/)
     
-## Meta data:
+## Task 3 -  Meta data:
 The Data Displayed here is about the growth of scallop.There are many factors that affect scallop growth like temperature, location, closure zone, density and so on by these factors we will be analyzing how the scallop growth happen in certain area, which is best location for their growth, how the temperature affect the growth, which area the scallop are dying the most, what is the suitable latitude and longitude of certain area, what should be the suitable water temperature.
 Below are the dataset available:
 
@@ -50,4 +50,22 @@ Below are the dataset available:
   
   ## Data clean up procedure
   
+  ## Task 6 - Data Cleaning Scripts
   
+  #### Temperature Data
+  
+Steps:
+1.	Create New Excel Sheet named “Temperature.xlsx”
+2.	Open Temperature2_2016_TaggedCage.xls and delete Columns D,E,F,G,H. There are just 1 or 2 entries in each column, which can’t help us in our analysis because there are 15026 entries for temperature to be considered and there isn’t sufficient data in rest of the columns to even assume.
+3.	Delete entry number 15024, 15025 and 15026 because they all have the same time and also the temperature wasn’t recorded at that time. 
+4.	Copy Paste Data from Temperature2_2016_TaggedCage.xls to Temperature.xlsx
+5.	Open Temperature2_2017_TaggedCage.xls and delete Columns D,E,F,G,H. There are just 1 or 2 entries in each column, which can’t help us in our analysis because there are 30048 entries for temperature to be considered and there isn’t sufficient data in rest of the columns to even assume.
+6.	Delete entry number 30046, 30047 and 30048 because they all have the same time and also the temperature wasn’t recorded at that time. 
+7.	Copy Paste Data from Temperature2_2017_TaggedCage.xls to Temperature.xlsx
+
+  
+ ## Task 7 - Contributors
+ 
+ 1. Bobodzhon Isamov
+ 2. Srishty Nayak
+ 3. Tarun Chaturvedi
