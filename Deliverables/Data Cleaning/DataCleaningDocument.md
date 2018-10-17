@@ -19,11 +19,7 @@ October 17, 2018
 ---------------------
 
 -   **Team Project: Hurricane Island for Scallop Growth**
--   **Team Members:**
 
--   **Srishty**
--   **Tarun**
--   **Bobo**
 
 Task 1 - Data description
 -------------------------
