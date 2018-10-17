@@ -23,9 +23,8 @@ Temperature: 15024 columns and 3 rows each
 
  ### The headers are as follows:
 
-| ID |Date Time, GMT-04:00  |	Temp | 
-| ID | Date Time|	Temp |	Period | Claim Type | Avg Spending  | Avg Spending Per Episode State |	Avg Spending Per Episode Nation 
-|:------:|:------:|:---:|:----:|:-----:|:--------:|:--------:|:--------:|:---------:|:---------:|:--------:|:------:|:-------:|
+| ID |Date Time, GMT-04:00 |	Temp | 
+
 
   
   
@@ -56,8 +55,7 @@ there was a big gap with not enough information. Thus, it was removed. Some fiel
 
 ## Task 5 - Steps taken to remediate data
 For the missing date we approximated the date based on the observation of other date feilds. Thus, we encountered that there is a 2-3 days gap between each record. Some entries that were missing more than one field was completely removed, since the data is not precise. 
-  
-  ## Data clean up procedure
+ 
   
   ## Task 6 - Data Cleaning Scripts
   
