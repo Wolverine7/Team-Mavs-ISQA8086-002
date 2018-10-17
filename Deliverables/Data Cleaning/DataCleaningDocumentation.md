@@ -63,6 +63,13 @@ Steps:
 6.	Delete entry number 30046, 30047 and 30048 because they all have the same time and also the temperature wasn’t recorded at that time. 
 7.	Copy Paste Data from Temperature2_2017_TaggedCage.xls to Temperature.xlsx
 
+  #### Spat Bag Data
+  Steps:
+  1. All the fields from row 16 to 25 should be removed, there is no data on Primary Zip Color, Line Number, Closure, and the      location that was is not precise with long and lat compare to other entries. 
+  2. Sorting dates must be sorted in the same format, therefore, the standard we pick will be mm/dd/yyyy.
+  3. Missing date on row 12 column H, was filled with 8/13/18. This is due to the fact, that other entries have 2-3 days            interval in between. Therefore, it is assumed that the entry was collected around this date. 
+  4. Date field is formated using excel short date format. 
+  5. Should get the total count of all Scallops found and base a regression model. Since the research is around the total          Scallop growth over the year.
   
  ## Task 7 - Contributors
  
