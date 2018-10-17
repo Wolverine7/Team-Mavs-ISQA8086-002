@@ -17,6 +17,8 @@ This data will help us understand which area is good for settlement around the c
 All the scallops are tagged, to differentiate them from one another which also helps to follow their growth as an individual throughout their lifetime in the cages where scallops are grown. The decisions can be taken based on the growth rate analysis.
 *	Temperature Data: Temperature data are some from spat bags which were deployed, and some are from gear and cages which is deployed in Hurricane Island. The variables present in temperature data help us understand spat, population dynamic, popular influences on growth rate of scallops. Also, the temperature of water can be obtained from the temperature data.
 
+The data contain --- Columns and ---- rows
+
  ### The headers are as follows:
 
 
