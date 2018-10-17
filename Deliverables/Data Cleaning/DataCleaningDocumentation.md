@@ -24,7 +24,8 @@ Temperature: 15024 columns and 3 rows each
  ### The headers are as follows:
 
 | ID |Date Time, GMT-04:00  |	Temp | 
-|:---:|:------: ------------|:---:|
+| ID | Date Time|	Temp |	Period | Claim Type | Avg Spending  | Avg Spending Per Episode State |	Avg Spending Per Episode Nation 
+|:------:|:------:|:---:|:----:|:-----:|:--------:|:--------:|:--------:|:---------:|:---------:|:--------:|:------:|:-------:|
 
   
   
