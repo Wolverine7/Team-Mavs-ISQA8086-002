@@ -41,10 +41,10 @@ The Data Displayed here is about the growth of scallop.There are many factors th
 Below are the dataset available:
 
   * 2018 Spat data
-  *	MR&OP Scallop Spat Bags
+  * MR&OP Scallop Spat Bags
   * ScallopGrowth_2016-17_TaggedCage
-	* Temperature2_2016_TaggedCage and
-	* Temperature2_2017_TaggedCage
+  * Temperature2_2016_TaggedCage and
+  * Temperature2_2017_TaggedCage
 
  
   
