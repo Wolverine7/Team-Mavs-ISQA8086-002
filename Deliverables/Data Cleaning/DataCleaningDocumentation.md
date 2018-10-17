@@ -35,7 +35,7 @@ The data contain
 
 |ID|Date Time|Temp|
 |---|---|---|
-|   |   |   |  
+ 
 
 
   
