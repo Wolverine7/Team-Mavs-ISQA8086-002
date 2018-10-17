@@ -6,7 +6,7 @@
   - **Tarun**
   - **Bobo**
   
-  ## Data description
+ ## Data description
 The Data Displyed here is about the Scallop Growth in Hurricane Island. 
 There are three important dataset we got from the client with the help of which we are doing the analysis of scallop growth. The dataset we have are Spat bag, Scallop growth and Temperature data.
 The details of these basic dataset are as follows:
