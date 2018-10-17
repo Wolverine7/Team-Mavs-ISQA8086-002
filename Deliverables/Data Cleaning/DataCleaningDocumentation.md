@@ -46,7 +46,12 @@ Below are the dataset available:
   * Temperature2_2016_TaggedCage and
   * Temperature2_2017_TaggedCage
 
- 
+## Task 4 - Issues
+The main issue that was encountered with the data was missing fields. In the spat data 2018,
+there was a big gap with not enough information. Thus, it was removed. Some fields needs more precise description to make it easier to interpret during the analysis part. The data should follow identical format: for date field use mm/dd/yyyy standardized etc. 
+
+## Task 5 - Steps taken to remediate data
+For the missing date we approximated the date based on the observation of other date feilds. Thus, we encountered that there is a 2-3 days gap between each record. Some entries that were missing more than one field was completely removed, since the data is not precise. 
   
   ## Data clean up procedure
   
