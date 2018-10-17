@@ -25,18 +25,28 @@ The data contain --- Columns and ---- rows
 
   
   
-  ### Key Terms
-  
-  
-  
-  
-  ### References
-  
-  
-  
-  ## Access & Use Information
+### Policy
+The information is provided here and the site makes no warranties on the information provided. Any damages resulting from its use are disclaimed. We encourage the use of our open data commons licenses but we cannot give any warranty that they will work in the way expected or should be used for any specific purpose. For more information on license, please visit the link below.  
+License:
+This is simply a handy reference for understanding the ODbL 1.0 — it is a human-readable expression of some of its key terms. This document has no legal value, and its contents do not appear in the actual license.
+Please see the disclaimer below.  
+You are free:  
+To Share: To copy, distribute and use the database.  
+To Create: To produce works from the database.  
+To Adapt: To modify, transform and build upon the database.  
+[See here for more information](http://opendefinition.org/licenses/odc-odbl/)
+    
+## Meta data:
+The Data Displayed here is about the growth of scallop.There are many factors that affect scallop growth like temperature, location, closure zone, density and so on by these factors we will be analyzing how the scallop growth happen in certain area, which is best location for their growth, how the temperature affect the growth, which area the scallop are dying the most, what is the suitable latitude and longitude of certain area, what should be the suitable water temperature.
+Below are the dataset available:
 
-  
+  * 2018 Spat data
+  *	MR&OP Scallop Spat Bags
+  * ScallopGrowth_2016-17_TaggedCage
+	* Temperature2_2016_TaggedCage and
+	* Temperature2_2017_TaggedCage
+
+ 
   
   ## Data clean up procedure
   
