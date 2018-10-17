@@ -18,11 +18,13 @@ All the scallops are tagged, to differentiate them from one another which also h
 *	Temperature Data: Temperature data are some from spat bags which were deployed, and some are from gear and cages which is deployed in Hurricane Island. The variables present in temperature data help us understand spat, population dynamic, popular influences on growth rate of scallops. Also, the temperature of water can be obtained from the temperature data.
 
 The data contain
-Temperature: 8 Columns and 24 rows 
+Spat data: 8 Columns and 24 rows 
 |  |  |	 |	 |  |  |  |
 |:------:|:------:|:---:|:----:|:-----:|:--------:|:--------:|:--------:|:---------:|:---------:|:--------:|:------:|:-------:|
 
-Spat Data: 
+Temperature: 15024 columns and 3 rows each
+| ID |Date Time, GMT-04:00  |	 Temp |
+|:------:|:------:|:---: --------  |
 
  ### The headers are as follows:
 
