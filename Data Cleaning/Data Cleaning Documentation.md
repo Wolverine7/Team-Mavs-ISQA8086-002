@@ -35,19 +35,15 @@ The data contain --- Columns and ---- rows
   
   
   ## Access & Use Information
+
+  
+  
+  ## Data clean up procedure
   
   
   
-  ## Data clean up procedure by Microsoft Excel
+
   
   
   
-  **Procedure**
-  
-  
-  
-  ## Metadata:
-  
-  
-  
-  ## Data were verified Excel:
+ 
