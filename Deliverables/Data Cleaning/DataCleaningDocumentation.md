@@ -27,8 +27,8 @@ The data contain
  * Spat Data:
  
 |Date|Line_Bag|zip Color|Latitude|Longitude|Area|Closure| Scallop Size|Size Count|Total Scallop|Count|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |   |   |    |   |   |   |
+|--- |---     |---      |---     |---      |--- |---    |---          |---       |---           |--- |
+
 
 
 * Temp:
