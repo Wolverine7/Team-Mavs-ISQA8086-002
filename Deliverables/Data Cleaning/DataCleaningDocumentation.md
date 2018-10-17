@@ -19,16 +19,11 @@ All the scallops are tagged, to differentiate them from one another which also h
 
 The data contain
 Spat data: 8 Columns and 24 rows 
-|  |  |	 |	 |  |  |  |
-|:------:|:------:|:---:|:----:|:-----:|:--------:|:--------:|:--------:|:---------:|:---------:|:--------:|:------:|:-------:|
-
 Temperature: 15024 columns and 3 rows each
-| ID |Date Time, GMT-04:00  |	 Temp |
-|:------:|:------:|:---: --------  |
 
  ### The headers are as follows:
 
-
+| ID |Date Time, GMT-04:00  |	 Temp |
 
   
   
