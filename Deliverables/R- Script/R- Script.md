@@ -17,4 +17,4 @@ We have addressed all our research questions.
 3) 
 
 
-**R-Script** for our research question can be found [here](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/new/master/)
+**R-Script** for our research question can be found [here](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/WorkPlan_ResearchQuestions.md)
