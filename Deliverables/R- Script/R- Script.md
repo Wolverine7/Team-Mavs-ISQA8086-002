@@ -2,7 +2,7 @@
 
 ## **Team Name: _Mavs_**
 - **Team Project: Hurricane Island for scallop Growth**
-- **Dataset: Scallop Growth dataset
+- **Dataset: Scallop Growth dataset **
 - **Team Members:**
   - **Tarun**
   - **Bobo**
