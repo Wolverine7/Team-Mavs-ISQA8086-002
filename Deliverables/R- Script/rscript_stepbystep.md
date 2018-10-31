@@ -1,3 +1,5 @@
+## Steps for R Script Data
+
 1. Open and Save each spat bag data to the csv
 2. Move to the working directory for R Studio
 3. Calculate, the mean, standard deviation, and the total count of Scallops. These calculation will later be used to estimate the growth of scallops and their size for each closure
