@@ -116,11 +116,7 @@ sum(MR16$MR$Scallop.count)
 sum(MR17$MR$Scallop.count)
 ```
 
-#### read the 2017 data 
 
-```{r}
-Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
-```
 
 
 ### Contributors
