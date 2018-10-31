@@ -1,0 +1,128 @@
+---
+title: "R Scripts"
+author: "Tarun Chaturvedi"
+date: "October 31, 2018"
+output:
+  github_doc:
+    toc: yes
+  html_document:
+    theme: cosmo
+    toc: yes
+---
+* * *
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE} 
+knitr::opts_chunk$set(cache=TRUE)
+knitr::opts_knit$set(root.dir = "C:/Users/TARUN/Desktop/ASAD") 
+```
+## R Markdown
+
+## **Team Name: _Mavs_**
+
+- **Team Project: Hurricane Island for scallop Growth**
+- **Dataset: Scallop Growth dataset**
+
+
+We have addressed the main research questions.
+
+1. Find the mean of Scallops in each region
+2. Find the stadard deviation of scallop size which will be used for scallop growth analysis 
+3. Query: Group by the closure and outputs the mean, by doing some we can find out with closure had better perfomance
+4. Missing data for 2017 SpatData were deleted, because they were not usefull for the analysis
+
+
+```{r}
+spatbag <- read.csv("Spat_Data.csv", header = TRUE, stringsAsFactors = FALSE)
+```
+
+```{r, results='hide'}
+library(dplyr)
+```
+
+
+```{r}
+closurezone <- split(spatbag, spatbag$Closure.zone)
+```
+
+```{r}
+spatbag%>%
+  group_by(Closure.zone)%>%
+  summarise(Mean=mean(Scallop.size..mm.), Max=max(Scallop.size..mm.), Min=min(Scallop.size..mm.), Sum=sum(Total.Scallops))
+
+```
+
+```{r}
+Area <- split(spatbag, spatbag$AREA)
+```
+
+```{r}
+sum(Area$MR$Total.Scallops)
+```
+
+
+```{r}
+sum(Area$VC$Total.Scallops)
+```
+
+```{r}
+Year2015 <- read.csv("2015 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
+```
+
+
+```{r}
+Year2016 <- read.csv("2016 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
+```
+
+
+
+```{r}
+Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
+```
+
+
+
+```{r}
+MR15 <- split(Year2015, Year2015$Area)
+```
+
+
+
+```{r}
+MR16 <- split(Year2016, Year2016$Area)
+```
+
+
+
+```{r}
+MR17 <- split(Year2017, Year2017$Area)
+```
+
+
+
+
+```{r}
+sum(MR15$MR$Scallop.count)
+```
+
+
+
+```{r}
+sum(MR16$MR$Scallop.count)
+```
+
+
+
+```{r}
+sum(MR17$MR$Scallop.count)
+```
+
+
+
+```{r}
+Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
+```
+
+
+### Contributors
+1. Bobodzhon Isamov - R Script and documentation proofreading
+2. Tarun Chaturvedi - R Script and further data cleaning
+3. Srishty Nayak - Analysis questions and documentation
