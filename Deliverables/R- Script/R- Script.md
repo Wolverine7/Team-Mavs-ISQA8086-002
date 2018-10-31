@@ -19,3 +19,8 @@ We have addressed the main research questions.
 
 
 **R-Script** for our research question can be found [here](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/WorkPlan_ResearchQuestions.md)
+
+### Contributors
+1. Bobodzhon Isamov - R Script and documentation proofreading
+2. Tarun Chaturvedi - R Script and further data cleaning
+3. Srishty Nayak - Analysis questins and documentation
