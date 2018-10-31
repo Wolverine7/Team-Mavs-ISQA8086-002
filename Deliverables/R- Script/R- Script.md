@@ -12,8 +12,8 @@
 
 We have addressed all our research questions.
 
-1)  
-2) 
+1) Find the mean of Scallops in each region based on the year 
+2) Find the stadard deviation of scallop size which will be used for scallop growth analysis 
 3) 
 
 
