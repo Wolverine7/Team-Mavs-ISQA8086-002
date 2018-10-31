@@ -29,7 +29,7 @@ We have addressed the main research questions.
 3. Query: Group by the closure and outputs the mean, by doing some we can find out with closure had better perfomance
 4. Missing data for 2017 SpatData were deleted, because they were not usefull for the analysis
 
-
+#### Read the csv file
 ```{r}
 spatbag <- read.csv("Spat_Data.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
@@ -38,84 +38,85 @@ spatbag <- read.csv("Spat_Data.csv", header = TRUE, stringsAsFactors = FALSE)
 library(dplyr)
 ```
 
-
+#### Create a closure zones
 ```{r}
 closurezone <- split(spatbag, spatbag$Closure.zone)
 ```
-
+#### Group by closure zones
 ```{r}
 spatbag%>%
   group_by(Closure.zone)%>%
   summarise(Mean=mean(Scallop.size..mm.), Max=max(Scallop.size..mm.), Min=min(Scallop.size..mm.), Sum=sum(Total.Scallops))
 
 ```
-
+#### Split the spatbag by areas
 ```{r}
 Area <- split(spatbag, spatbag$AREA)
 ```
-
+#### get the total count of scallops in MR area
 ```{r}
 sum(Area$MR$Total.Scallops)
 ```
-
+#### get the total count of scallops in VC area
 
 ```{r}
 sum(Area$VC$Total.Scallops)
 ```
-
+#### open 2015 csv file
 ```{r}
 Year2015 <- read.csv("2015 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
 
-
+#### open 2016 csv file
 ```{r}
 Year2016 <- read.csv("2016 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
 
-
+#### open 2017 csv file
 
 ```{r}
 Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
 
-
+#### Split the 2015 by the area
 
 ```{r}
 MR15 <- split(Year2015, Year2015$Area)
 ```
 
-
+#### Split the 2016 by the area
 
 ```{r}
 MR16 <- split(Year2016, Year2016$Area)
 ```
 
 
+#### Split the 2017 by the area
 
 ```{r}
 MR17 <- split(Year2017, Year2017$Area)
 ```
 
 
-
+#### get the sum of scallops in MR for 2015
 
 ```{r}
 sum(MR15$MR$Scallop.count)
 ```
-
+#### get the Sum of scallops in MR for 2016
 
 
 ```{r}
 sum(MR16$MR$Scallop.count)
 ```
 
-
+#### get the sum of scallops in MR for 2017
 
 ```{r}
 sum(MR17$MR$Scallop.count)
 ```
 
-
+#### read the 2017 data 
 
 ```{r}
 Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
