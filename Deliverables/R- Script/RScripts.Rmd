@@ -3,7 +3,7 @@ title: "R Scripts"
 author: "Tarun Chaturvedi"
 date: "October 31, 2018"
 output:
-  github_doc:
+  github_document:
     toc: yes
   html_document:
     theme: cosmo
