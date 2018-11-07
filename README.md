@@ -31,6 +31,7 @@
 1) R
 2) R-Studio
 3) ggplot
+4) ggplot2
 
 ## License
 Current repository is reserved under
