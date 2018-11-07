@@ -27,6 +27,10 @@
  
  ##### 4.R-Script
  ##### 5.R-Plot
+ ### Tools and Packages Used:
+1) R
+2) R-Studio
+3) ggplot
 
 ## License
 Current repository is reserved under
