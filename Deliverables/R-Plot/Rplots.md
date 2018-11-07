@@ -1,4 +1,4 @@
-R Scripts
+R Plots
 ================
 Tarun Chaturvedi
 November 7, 2018
