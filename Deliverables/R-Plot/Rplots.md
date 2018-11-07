@@ -47,6 +47,8 @@ spatstats <- read.csv("Stats.csv", header = TRUE, stringsAsFactors = FALSE)
 attach(spatstats)
 ```
 
+##### Note:- Run the .Rmd file to generate the graphs. We have attached graph images in this file.
+
 Scallop Count Per Year
 ----------------------
 
@@ -56,6 +58,7 @@ Scallop Count Per Year
 
 ![](Rplots_files/figure-markdown_github/spat-1.png)
 
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/ScallopCount.PNG)
 #### Adding a new library for better visualization.
 
 ``` r
@@ -83,6 +86,8 @@ Scallop Count per Year (Better visualized)
 
 ![](Rplots_files/figure-markdown_github/yearly-1.png)
 
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/Scallops.PNG)
+
 ``` r
 spatbag <- read.csv("Spat_Data.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
@@ -99,6 +104,8 @@ Scallops in each Closure Zone
 #### In this data sample, we took the counts of total scallops across different closure zones. Based on the analysis, we noticed that the distribution was not even. First closure has far more total scallops counts compare to the south and the north. As far the graph we decided to show bar chart dividing scallops based on the zones.
 
 ![](Rplots_files/figure-markdown_github/closure-1.png)
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/ClosureStats.PNG)
 
 ``` r
 Year2015 <- read.csv("2015 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
@@ -119,6 +126,9 @@ Scallops in different Areas (2015)
 
 ![](Rplots_files/figure-markdown_github/yr15-1.png)
 
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/2015Scallops.PNG)
+
+
 ``` r
 Year2016 <- read.csv("2016 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
@@ -138,6 +148,8 @@ Scallops in different Areas (2016)
 
 ![](Rplots_files/figure-markdown_github/yr16-1.png)
 
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/2016Scallops.PNG)
+
 ``` r
 Year2017 <- read.csv("2017 SpatData.csv", header = TRUE, stringsAsFactors = FALSE)
 ```
@@ -154,6 +166,8 @@ Scallops in different Areas (2017)
 #### This plot shows that for the year 2017, the MR (Mussel Ridge) area had more number of Scallops.
 
 ![](Rplots_files/figure-markdown_github/yr17-1.png)
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Graphs/2017Scallops.PNG)
 
 ### Contributors
 
