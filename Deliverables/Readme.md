@@ -16,4 +16,5 @@ The **HTML** that displays all the plots can be found
 ### Tools and Packages Used:
 1) R
 2) R-Studio
-3) ggplot2
+3) ggplot
+4) ggplot2
