@@ -1,9 +1,7 @@
 ### Project tittle
 # Hurricane Island For Scallop Growth
 
-### Team
-
-### Mavs
+## Team: Mavs
 
 ## Team Members
 * Bobodzhon Isamov
