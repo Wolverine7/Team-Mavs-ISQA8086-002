@@ -1,5 +1,5 @@
 ## Project tittle
-*ISQA8086-002* Data Analysis on Scallops growth rate and the influence of external factors
+### Hurricane Island For Scallop Growth
 
 ## Team Members
 * Bobodzhon Isamov
