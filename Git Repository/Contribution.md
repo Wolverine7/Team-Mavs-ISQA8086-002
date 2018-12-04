@@ -37,6 +37,12 @@ Contributors: Bobo, Tarun
 
 Proof-reader: Srishty
 
+
+6. Git Repository
+
+Contribustors: Srishty, Tarun
+
+Proof-reader: Bobo
   
 
 ## Background Research 
