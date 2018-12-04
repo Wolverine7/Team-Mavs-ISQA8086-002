@@ -35,5 +35,11 @@
 3. _[R-Scripts](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-%20Script/RScripts.md)_  
 4. _[R-Plots](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/R-Plot/Rplots.md)_  
 5. _[Audience Profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Audience%20Profile.md)_   
-7. _[Git Repository](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Readme.md)_  
+7. _[Git Repository](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Readme.md)_ 
+
+## License
+Current repository is reserved under
+[MIT License](https://github.com/angular/angular.js/blob/master/LICENSE) .    
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
