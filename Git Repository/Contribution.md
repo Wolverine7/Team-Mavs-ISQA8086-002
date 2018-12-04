@@ -17,11 +17,11 @@ Proof-reader:Bobo
   
 ## 3. Data Cleaning Documentation : 
 
-Bobodzhon Isamov - Cleaned Spat Data. Task 2,4 and 6
+Bobodzhon Isamov - Cleaned Spat Data. Task Policy, issue Data Cleaning Scripts
 
-Srishty Nayak - Document Layout. Task 1,3, 5. Proofreader.
+Srishty Nayak - Document Layout. Task Description, Meta data, Steps taken to Remediate Data
 
-Tarun Chaturvedi - Cleaned Temperature data. Contributed to Task 6 and 7. R markdown documentation and knitted to html and github. 
+Tarun Chaturvedi - Cleaned Temperature data. Contributed to Data Cleaning Scripts. R markdown documentation and knitted to html and github. 
 
 ## 4. R Script : 
 
@@ -49,6 +49,8 @@ Srishty Nayak - Summary, Contributions task, Added Updated version of all the pr
   
 ## 7. Background Research :
 
-- Bobo Isamov- The client's organization and its mission and goals 
-- Tarun Chaturvedi - The study organism or phenomenon 
-- Srishty Nayak-The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)
+Bobo Isamov- The client's organization and its mission and goals 
+
+Tarun Chaturvedi - The study organism or phenomenon 
+
+Srishty Nayak-The kind of decisions, interventions, or actions that analysis results could support (e.g., management actions, advocacy for policy changes, etc.)
