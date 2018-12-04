@@ -16,13 +16,13 @@
 
 ## Summary on the deliveries thorughout the Semester 
 
-1. _[Work Plan & RQ] 
-2. _[Background Research]
-3. _[Data Cleaning Documentations]  
-4. _[R-Scripts]
-5. _[R-Plots]
-6. _[Audience Profile]
-7. _[Git Repository]
+1. Work Plan & RQ 
+2. Background Research
+3. Audience Profile
+4. Data Cleaning and Documentation
+5. R-Scripts
+6. R-Plots 
+7. Git Repository
 
 ## License
 Current repository is reserved under
