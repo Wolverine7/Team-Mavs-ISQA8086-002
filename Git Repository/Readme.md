@@ -1,5 +1,5 @@
 ### Project tittle
-# Hurricane Island For Scallop Growth
+# Hurricane Island For Scallop Growth : Data Analysis on Scallops growth rate and the influence of external factors
 
 ## Team: Mavs
 
