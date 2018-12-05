@@ -17,12 +17,12 @@
 
 ## Overview of package contents:
 1. Brief description of the project [click here for readme](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Readme.md)
-2. RScript Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/RScript)
-3. RPlot Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/RPlot)
-4. Audience Profile [click here for profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Audience%20Profile.md)
-5. Summary of the project [click here for summary](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Summary.html)
-6. Presentation PDF of the project [click here for presentation](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Presentation.pdf)
-7. Summary of team individual Contribution to the project [click here for contribution file](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Contribution.md)  
+2. RScript Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/Deliverables/RScripts)
+3. RPlot Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/Deliverables/RPlot)
+4. Audience Profile [click here for profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Audience%20Profile.md)
+5. Summary of the project [click here for summary](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Summary.html)
+6. Presentation PDF of the project [click here for presentation](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Presentation.pdf)
+7. Summary of team individual Contribution to the project [click here for contribution file](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Contribution.md)  
 
 ## Summary on the deliveries thorughout the Semester
 
@@ -30,9 +30,9 @@
 
 1. _[Work Plan & RQ](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/WorkPlan_ResearchQuestions.md)_  
 2. _[Data Cleaning Documentations](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Deliverables/Data%20Cleaning/DataCleaningDocument.md)_  
-3. _[R-Scripts](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/RScript/RScript.md)_  
-4. _[R-Plots](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/RPlot/RPlot.md)_  
-5. _[Audience Profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Audience%20Profile.md)_   
+3. _[R-Scripts](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/RScripts/RScript.md)_  
+4. _[R-Plots](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/RPlot/RPlot.md)_  
+5. _[Audience Profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Audience%20Profile.md)_   
 7. _[Git Repository](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Readme.md)_ 
 
 ## License
