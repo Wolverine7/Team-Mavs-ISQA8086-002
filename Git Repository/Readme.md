@@ -42,5 +42,5 @@ Current repository is reserved under
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Proof-reader- Srishty Nayak
+#### Proof-reader- Srishty Nayak
 
