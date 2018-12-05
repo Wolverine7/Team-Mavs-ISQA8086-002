@@ -18,7 +18,7 @@
 ## Overview of package contents:
 1. Brief description of the project [click here for readme](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Readme.md)
 2. RScript Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/RScript)
-3. 2. RPlot Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/RPlot)
+3. RPlot Document generated with RStudio [click here for files](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/tree/master/Git%20Repository/RPlot)
 4. Audience Profile [click here for profile](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Audience%20Profile.md)
 5. Summary of the project [click here for summary](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Summary.html)
 6. Presentation PDF of the project [click here for presentation](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Presentation.pdf)
