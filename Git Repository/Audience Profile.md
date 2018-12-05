@@ -49,10 +49,10 @@ The data was collected from the small closed area in the muscle ridge to observe
 * Priorities: The main goal of this research is to find out how the small closure can effect the growth and population of the Scallop's in the given area. As the participants of aqua cultural research their objective is to understand the impact of different gear types on the growth rate of scallops. 
 
 * Opportunities
-Using these data and analysis, Local fisherman would be interested in learning the results as they can manage their resources whihc  will help them to understand the demography and  they will prepare for the changes.
+Using these data and analysis, Local fisherman would be interested in learning the results as they can manage their resources which  will help them to understand the demography and they can prepare for the changes accordingly.
 
 ## Contributors: 
 
-Tarun, srishty
+Tarun, Srishty
 
 Proof-reader:Bobo
