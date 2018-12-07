@@ -70,7 +70,9 @@ head(spatstats)
 Scallop Count per Year (Better visualized)
 ------------------------------------------
 
-### ggplot(spatstats, aes(x=Year, y=Scallop.Count)) + geom\_bar(stat = "identity")
+### ggplot(spatstats, aes(x=Year, y=Scallop.Count, fill = Year)) + geom\_bar(stat = "identity")
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/ScallopCountperYear.PNG)
 
 #### In the current research data, we tried to analyze the growth and the size of each scallop in the different closures. For our sample, we got the total Scallop Counts across 2018, 2017, 2016, and 2015 year. According, to the result we gathered, and the calculation provided, the total counts of Scallops actually decreased from 2015 onwards. This graph shows that the Scallop distribution across the years
 
@@ -89,7 +91,10 @@ head(spatbag)
 Scallops in each Closure Zone
 -----------------------------
 
-### ggplot(spatbag, aes(x=Closure.zone, y=Total.Scallops)) + geom\_bar(stat = "identity")
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/ClosureStats.PNG)
+
+
+### ggplot(spatbag, aes(x=Closure.zone, y=Total.Scallops, fill = Closure.zone)) + geom\_bar(stat = "identity")
 
 #### In this data sample, we took the counts of total scallops across different closure zones. Based on the analysis, we noticed that the distribution was not even. First closure has far more total scallops counts compare to the south and the north. As far the graph we decided to show bar chart dividing scallops based on the zones.
 
@@ -106,7 +111,10 @@ head(Year2015)
 Scallops in different Areas (2015)
 ----------------------------------
 
-### ggplot(Year2015, aes(x=Area, y=Scallop.count)) + geom\_bar(stat = "identity")
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/2015ScallopCount.PNG)
+
+
+### ggplot(Year2015, aes(x=Area, y=Scallop.count, fill = Area)) + geom\_bar(stat = "identity")
 
 #### This plot shows that for the year 2015, the MR (Mussel Ridge) area had more number of Scallops.
 
@@ -123,7 +131,9 @@ head(Year2016)
 Scallops in different Areas (2016)
 ----------------------------------
 
-### ggplot(Year2016, aes(x=Area, y=Scallop.count)) + geom\_bar(stat = "identity")
+### ggplot(Year2016, aes(x=Area, y=Scallop.count, fill = Area)) + geom\_bar(stat = "identity")
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/2016ScallopCount.PNG)
 
 #### This plot shows that for the year 2016, the MR (Mussel Ridge) area had more number of Scallops.
 
@@ -140,7 +150,9 @@ head(Year2017)
 Scallops in different Areas (2017)
 ----------------------------------
 
-### ggplot(Year2017, aes(x=Area, y=Scallop.count)) + geom\_bar(stat = "identity")
+### ggplot(Year2017, aes(x=Area, y=Scallop.count, fill = Area)) + geom\_bar(stat = "identity")
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/2017ScallopCount.PNG)
 
 #### This plot shows that for the year 2017, the MR (Mussel Ridge) area had more number of Scallops.
 
@@ -148,15 +160,20 @@ Scallops in different Areas (2017)
 
 Scallops in different Areas per Year
 ------------------------------------
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/AreaStatsperYear.PNG)
 
 Scallop Size 2016 vs 2017
 -------------------------
 
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/ScallopSizeComparison.PNG)
+
 Temperature Difference 2016 vs 2017
 -----------------------------------
+
+![](https://github.com/Wolverine7/Team-Mavs-ISQA8086-002/blob/master/Git%20Repository/Deliverables/Graphs/Temperature.PNG)
 
 ### Contributors
 
 1.  Bobodzhon Isamov - Plots description and Peer Review Discussion
 2.  Tarun Chaturvedi - R Plotting and further Data cleaning.
-3.  Srishty Nayak - Proofreader
+3.  Srishty Nayak - Summary and Proofreader
